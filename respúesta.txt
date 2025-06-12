@@ -1,0 +1,42 @@
+1- 4-<title> Nuestro servicio</title> Este sirve para colocar el titulo de la pagina
+
+2- 6-<link rel="stylesheet" href="servicios.css"> Este sirve para realizar la conexión con el archivo css
+
+3- 10-<h1>Servicios que ofrecemos</h1> Este sirve para colocar el encabezado principal
+
+4- 24-<h2>Soporte tecnico</h2> Este es el segundo titulo 
+
+5- 20-<p>Ofrecemos paginas modernas, rapidas y responsivas.</p> muestra un párrafo en la pagina
+
+6- 29-<li>Configuracion de redes</li>  Es una lista que se encuentra en ul- desordenada
+
+7- 35-<input placeholder="tu nombre" name="nombre"> Sirve para insertar un nombre en un formulario
+
+8- 38-<input type="submit" value="enviar"> Crea un botón con el mensaje enviar
+
+9- 44-</body> el final de cuerpo de la pagina
+
+10-  7-<body> es el principio del cuerpo de la pagina
+
+
+
+
+Error:
+
+1-  21-<img src="web.jpg" alt="Diseño web" Falta el > para terminar la instrucción
+
+2- 27-<li>mantenimiento    Error falta terminar el comando con </li>
+
+3- 28-<li>Instalacion de softwere    También falta el termino de la instrucción </li>
+
+4- 43-<footer>  Falta el termino de la función </footer>
+
+5- 17- <main> falta el final de la instrucción </main>
+
+6- 22-<section> falta el final de la instrucción  </section>
+
+7- 22-</section> falta el principio de la instrucción <section>
+
+8- 5-<meta> charset=<UTF-8> Falta el final de la instrucción  </UTF-8>
+
+9- 39-</form> Falta la primera intruccion <form> 

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Estilo.css">
+</head>
+<body>
+    <img src="cerebro.png" alt="esta es una imagen">   
+<form action="Nombre">nombre</form>
+<input type="text" name="contraseña" id="">
+<table>
+    <tr>
+        <th>Numeros</th>
+        <th>Colores</th>
+    </tr>
+    <td>1</td>
+    <td>rojo</td>
+    <tr>
+        <td>2</td>
+        <td>azul</td>
+    
+    </tr>
+    <td>3</td>
+    <td>amarillo</td>
+<style>
+    table, tr, th, td {
+        border-style: groove;
+    }    
+
+
+</style>    
+</table>
+</body>
+</html>
